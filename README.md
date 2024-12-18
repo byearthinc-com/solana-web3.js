@@ -1,4 +1,4 @@
-[![npm][npm-image]][npm-url]
+#byearthinc [![npm][npm-image]][npm-url]
 [![npm-downloads][npm-downloads-image]][npm-url]
 [![semantic-release][semantic-release-image]][semantic-release-url]
 <br />
